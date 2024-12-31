@@ -14,10 +14,9 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.2.0",
-    "parcel": "^2.13.3",
-    "post": "^0.0.1",
+    "parcel": "^2.13.2",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.16"
   },
-  "homepage": "https://mijisuh.github.io/ssafy-2024-frontend/"
+  "homepage": "https://beomi.github.io/ssafy-2024-frontend/"
 }
